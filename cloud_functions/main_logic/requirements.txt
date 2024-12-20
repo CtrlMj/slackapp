@@ -1,0 +1,11 @@
+beautifulsoup4==4.11.2
+cohere==4.9.0
+google-cloud-aiplatform==1.25.0
+atlassian-python-api==3.34.0
+flask==2.2.2
+requests>=2.0
+urllib3==1.26.14
+google-cloud-firestore==2.11.0
+vertexai==0.0.1
+git+https://github.com/Majidbadal/langchain.git@firestore_supported_matchingengine
+transformers
